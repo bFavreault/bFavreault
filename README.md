@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bFavreault
+- 👋 I’m @bFavreault
 - 🇨🇦 I speak French and English
 - 👀 I’m interested in functional programming (mostly in the JS ecosystem), style development, color theory, typography, and many more...
 - 😄 Pronouns: he
